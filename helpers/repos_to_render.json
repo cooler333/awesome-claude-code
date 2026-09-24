@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:55:15Z",
+  "generated_at": "2026-09-24T12:02:54Z",
   "generator": "helpers/render.py",
   "count": 100,
   "repos": [
@@ -64,6 +64,7 @@
     "kepano/obsidian-skills",
     "sickn33/agentic-awesome-skills",
     "K-Dense-AI/scientific-agent-skills",
+    "LibreChat-AI/LibreChat",
     "DeusData/codebase-memory-mcp",
     "MadsLorentzen/ai-job-search",
     "reactive-resume/reactive-resume",
@@ -72,8 +73,8 @@
     "luongnv89/claude-howto",
     "emilkowalski/skills",
     "herdrdev/herdr",
-    "tinyhumansai/openhuman",
     "alibaba/open-code-review",
+    "tinyhumansai/openhuman",
     "wshobson/agents",
     "drawdb-io/drawdb",
     "Yeachan-Heo/oh-my-claudecode",
@@ -82,8 +83,8 @@
     "patchy631/ai-engineering-hub",
     "microsoft/playwright-mcp",
     "musistudio/claude-code-router",
-    "zhaoxuya520/reverse-skill",
     "anthropics/financial-services",
+    "zhaoxuya520/reverse-skill",
     "anthropics/claude-plugins-official",
     "JCodesMore/ai-website-cloner-template",
     "VoltAgent/awesome-agent-skills",
@@ -96,12 +97,11 @@
     "vercel-labs/skills",
     "virgiliojr94/book-to-skill",
     "tirth8205/code-review-graph",
+    "davila7/claude-code-templates",
     "feder-cr/invisible_playwright_mcp",
     "jumpserver/jumpserver",
     "vercel-labs/agent-skills",
-    "davila7/claude-code-templates",
     "iOfficeAI/OfficeCLI",
-    "getzep/graphiti",
-    "topoteretes/cognee"
+    "getzep/graphiti"
   ]
 }
